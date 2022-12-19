@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  Calculator.cpp
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.cpp(6,8): warning C4273: multiply: несовместимое связывание dll
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.h(9,35): message : см. предыдущее определение "multiply"
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.cpp(10,8): warning C4273: devision: несовместимое связывание dll
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.h(10,35): message : см. предыдущее определение "devision"
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.cpp(14,8): warning C4273: plus: несовместимое связывание dll
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.h(11,35): message : см. предыдущее определение "plus"
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.cpp(18,8): warning C4273: minus: несовместимое связывание dll
+C:\Users\garif\source\repos\ItStep\DllItStep\Calculator.h(12,35): message : см. предыдущее определение "minus"
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\garif\source\repos\ItStep\x64\Debug\DllItStep.lib и объект C:\Users\garif\source\repos\ItStep\x64\Debug\DllItStep.exp
+  DllItStep.vcxproj -> C:\Users\garif\source\repos\ItStep\x64\Debug\DllItStep.dll

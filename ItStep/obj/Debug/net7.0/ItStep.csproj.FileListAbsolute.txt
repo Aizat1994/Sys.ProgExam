@@ -1,0 +1,15 @@
+C:\Users\garif\source\repos\ItStep\ItStep\bin\Debug\net7.0\ItStep.exe
+C:\Users\garif\source\repos\ItStep\ItStep\bin\Debug\net7.0\ItStep.deps.json
+C:\Users\garif\source\repos\ItStep\ItStep\bin\Debug\net7.0\ItStep.runtimeconfig.json
+C:\Users\garif\source\repos\ItStep\ItStep\bin\Debug\net7.0\ItStep.dll
+C:\Users\garif\source\repos\ItStep\ItStep\bin\Debug\net7.0\ItStep.pdb
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.csproj.AssemblyReference.cache
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.AssemblyInfoInputs.cache
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.AssemblyInfo.cs
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.csproj.CoreCompileInputs.cache
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.dll
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\refint\ItStep.dll
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.pdb
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ItStep.genruntimeconfig.cache
+C:\Users\garif\source\repos\ItStep\ItStep\obj\Debug\net7.0\ref\ItStep.dll
